@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+#fa{
+	border:1px solid black;
+	width:400px;
+	padding:20px;
+	display:flex;
+	justify-content:center;
+}
+#f1{
+	width:300px;
+	border:15px solid blue;
+	padding:50px;
+	background-color:lightblue;
+	
+}
+
+#f2{
+	padding:30px;
+	border:1px solid black;
+}
+p{
+	border:1px dashed black;
+}
